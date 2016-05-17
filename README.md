@@ -4,7 +4,7 @@ which are:
 1)Piping to Http Stream
 2)Creating a Bundled inline file
 
-### INTRODUCTION
+### INSTALLATION
 
     go get github.com/michaelfemi81/go-inliner
 ### API DOCUMENTATION
